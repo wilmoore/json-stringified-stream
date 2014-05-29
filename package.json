@@ -1,6 +1,6 @@
 {
   "name": "json-stringified-stream",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Transform stream accepting a JSON string to parse and stringify with an optional delimiter.",
   "author": "Wil Moore III <wil.moore@wilmoore.com>",
   "contributors": [
