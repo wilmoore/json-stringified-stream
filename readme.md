@@ -1,4 +1,6 @@
-# json-stringified-stream [![NPM version](https://badge.fury.io/js/json-stringified-stream.png)](http://badge.fury.io/js/json-stringified-stream) [![Dependency Status](https://gemnasium.com/wilmoore/json-stringified-stream.js.svg)](https://gemnasium.com/wilmoore/json-stringified-stream.js)
+# json-stringified-stream
+
+[![Build Status](http://img.shields.io/travis/wilmoore/json-stringified-stream.svg)](https://travis-ci.org/wilmoore/json-stringified-stream) [![NPM version](http://img.shields.io/npm/v/json-stringified-stream.svg)](https://www.npmjs.org/package/json-stringified-stream) [![NPM downloads](http://img.shields.io/npm/dm/json-stringified-stream.svg)](https://www.npmjs.org/package/json-stringified-stream) [![LICENSE](http://img.shields.io/npm/l/json-stringified-stream.svg)](license)
 
 > Transform stream accepting a JSON string to parse and stringify with an optional delimiter.
 
@@ -27,7 +29,7 @@
 
 ## License
 
-  MIT
+  [MIT](license)
 
 [newline-json]: https://github.com/CrowdProcess/newline-json
 [format-json-stream]: https://github.com/thlorenz/format-json-stream
